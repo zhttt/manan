@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/cjb/cjb.iml" filepath="$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/cjb/cjb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/gkk/gkk.iml" filepath="$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/gkk/gkk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/lx/lx.iml" filepath="$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/lx/lx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/mn/mn.iml" filepath="$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/mn/mn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-online-manage.iml" filepath="$PROJECT_DIR$/ssh-online-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/util/util.iml" filepath="$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/util/util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/wb/wb.iml" filepath="$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/wb/wb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/webapp/webapp.iml" filepath="$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/webapp/webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/yq/yq.iml" filepath="$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/yq/yq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/zht/zht.iml" filepath="$PROJECT_DIR$/../../../IdeaWorkSpace/ssh-online-manage/parent/zht/zht.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jk:webapp:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jk/webapp/unknown/webapp-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jk/webapp/unknown/webapp-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jk/webapp/unknown/webapp-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
